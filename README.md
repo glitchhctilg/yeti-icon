@@ -1,0 +1,2 @@
+# yeti-icon
+First project
