@@ -1,6 +1,6 @@
 p.a{ 
-  font-style=italic
+  font-style: italic;
 }
 p.b{
-  text-decorations=underline
+  text-decoration: underline;
 }
